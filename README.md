@@ -48,13 +48,13 @@ The project is structured as follows:
 5. **Run the cells in the notebook to see the analysis and visualizations**.
 
 ## Code and Analysis
-The Jupyter Notebook `Football_Player_Analysis.ipynb` contains the following sections:
+The Jupyter Notebook `FIFA22.ipynb` contains the following sections:
 
 1. **Load necessary libraries**:
     - Import libraries such as `pandas`, `matplotlib`, and `seaborn`.
 
 2. **Load the dataset**:
-    - Read the `football_players.csv` file into a pandas DataFrame.
+    - Read the `FIFA22.csv` file into a pandas DataFrame.
 
 3. **Display the first few rows of the dataset**:
     - Use the `head()` method to preview the dataset.
