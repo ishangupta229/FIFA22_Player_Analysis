@@ -1,5 +1,9 @@
 # Football Player Analysis
 
+## Acknowledgements
+- The dataset was provided by Kaggel.
+- This analysis was conducted using Python, pandas, matplotlib, and seaborn.
+
 ## Introduction
 This project analyzes a dataset of football players to draw insights about their attributes, wages, and more. The data includes variables like players' mentality, foot preference, position, potential rating, and wages.
 
@@ -78,10 +82,3 @@ The Jupyter Notebook `Football_Player_Analysis.ipynb` contains the following sec
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
-
-## Acknowledgements
-- The dataset was provided by [data source].
-- This analysis was conducted using Python, pandas, matplotlib, and seaborn.
