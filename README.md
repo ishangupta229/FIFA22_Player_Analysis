@@ -27,11 +27,11 @@ The project is structured as follows:
 ## How to Run the Project
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ishangupta229/FIFA22_Player_Analysis.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd <project-directory>
+    cd FIFA22
     ```
 3. **Install the necessary libraries**:
     ```bash
@@ -39,7 +39,7 @@ The project is structured as follows:
     ```
 4. **Open the Jupyter Notebook**:
     ```bash
-    jupyter notebook Football_Player_Analysis.ipynb
+    jupyter notebook FIFA22.ipynb
     ```
 5. **Run the cells in the notebook to see the analysis and visualizations**.
 
