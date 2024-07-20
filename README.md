@@ -24,8 +24,8 @@ Based on the analysis, we can conclude that:
 ## Project Structure
 The project is structured as follows:
 
-- `football_players.csv`: The dataset containing information about football players.
-- `Football_Player_Analysis.ipynb`: Jupyter Notebook containing the code and analysis.
+- `players_22.csv.csv`: The dataset containing information about football players.
+- `FIFA22.ipynb`: Jupyter Notebook containing the code and analysis.
 - `README.md`: This file.
 
 ## How to Run the Project
